@@ -2,7 +2,7 @@
 
 
 
-![email](https://user-images.githubusercontent.com/71443826/190460590-41f6e112-8821-4115-8816-6704312854b2.gif)
+
 
 
 This E-commerce project built on Spring Boot.<br>
